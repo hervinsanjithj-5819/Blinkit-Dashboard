@@ -52,3 +52,13 @@ This project provides a comprehensive end-to-end data analysis solution for **Bl
 ├── Screenshots/
 │   └── dashboard_overview.png        # Preview image of the dashboard
 └── README.md                         # Project documentation
+
+
+
+🚀 How to View the Project
+Clone or download this repository:
+git clone [https://github.com/your-username/blinkit-powerbi-dashboard.git](https://github.com/your-username/blinkit-powerbi-dashboard.git)
+
+Open the .pbix file in Power BI Desktop.
+
+Interact with slicers (Outlet Size, Item Type, Outlet Location Tier) to explore dynamic insights.
